@@ -1,2 +1,2 @@
-# Vue-Mortage-Calculator-Web-App
+# Mortage-Calculator
 Mortage Calculator
